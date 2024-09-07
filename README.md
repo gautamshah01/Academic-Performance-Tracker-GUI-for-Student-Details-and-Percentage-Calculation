@@ -1,6 +1,6 @@
 📚 Student Academics Performance Tracker System
 
-Welcome to the Student Marks Management System! This Python application, using Tkinter for the graphical interface and SQLite for data storage, is your all-in-one solution for managing student marks and academic details. 🚀
+Welcome to the Student Marks Management System! This Python application is made using Tkinter for the graphical interface and SQLite3 for data storage.It is your all-in-one solution for managing student marks and academic details. 
 
 
 🌟 Features-
@@ -14,7 +14,7 @@ Welcome to the Student Marks Management System! This Python application, using T
 
  Manage Records: Retrieve the latest student record or delete the most recent entry.
 
- Database Integration: Store and manage student data with SQLite.
+ Database Integration: Store and manage student data with SQLite3.
 
 
 

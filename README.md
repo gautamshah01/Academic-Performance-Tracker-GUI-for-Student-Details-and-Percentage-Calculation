@@ -1,24 +1,25 @@
 📚 Student Academics Performance Tracker System
 
-
 Welcome to the Student Marks Management System! This Python application, using Tkinter for the graphical interface and SQLite for data storage, is your all-in-one solution for managing student marks and academic details. 🚀
 
 
-🌟 Features
+🌟 Features-
 
 
-📝 Input Student Details: Enter and save student names, roll numbers, and contact information.
+ Input Student Details: Enter and save student names, roll numbers, and contact information.
 
-📊 Calculate Percentage: Automatically compute the percentage based on subject marks.
+ Calculate Percentage: Automatically compute the percentage based on subject marks.
 
-🎓 Convert to CGPA: Transform your percentage into CGPA with ease.
+ Convert to CGPA: Transform your percentage into CGPA with ease.
 
-🔄 Manage Records: Retrieve the latest student record or delete the most recent entry.
+ Manage Records: Retrieve the latest student record or delete the most recent entry.
 
-💾 Database Integration: Store and manage student data with SQLite.
+ Database Integration: Store and manage student data with SQLite.
 
 
-🚀 Installation
+
+
+🚀 Installation-
 
 
 Clone the Repository
@@ -33,7 +34,7 @@ Ensure Python is installed, then install the necessary libraries:
 
 Start the application 
 
-🛠️ Usage
+🛠️ Usage-
 
 Start the Application: Run the script to launch the main window.
 
@@ -48,23 +49,23 @@ Convert to CGPA: Enter a percentage to convert it into CGPA.
 Manage Records: Use "Get Details" to view the latest student record or "Delete Last Entry" to remove it.
 
 
-📂 Code Overview
+📂 Code Overview-
 
 main.py: The core script containing the GUI setup and database operations.
 
 student_data.db: SQLite database file for storing student records.
 
 
-🤝 Contributing
+🤝 Contributing-
 
 Interested in contributing? Feel free to fork the repo, make your changes, and submit a pull request. Please follow the existing coding style.
 
 
-📝 License
+📝 License-
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 
-📬 Contact
+📬 Contact-
 
-For questions or feedback, reach out to your-gautamshah361@gmail.com. We’d love to hear from you!
+For questions or feedback, reach out to gautamshah361@gmail.com. We’d love to hear from you!
